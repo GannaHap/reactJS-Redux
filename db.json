@@ -1,0 +1,109 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "HAP",
+      "alamat": "Ngawi",
+      "umur": 18,
+      "nohp": "08967126173"
+    },
+    {
+      "id": 2,
+      "nama": "Hinggil",
+      "alamat": "Jakarta",
+      "umur": 19,
+      "nohp": "089671261726"
+    },
+    {
+      "id": 3,
+      "nama": "Prasetya",
+      "alamat": "Surabaya",
+      "umur": 17,
+      "nohp": "0896712672673"
+    },
+    {
+      "id": 4,
+      "nama": "Ganna",
+      "alamat": "Ngawi",
+      "umur": 18,
+      "nohp": "08967126173"
+    },
+    {
+      "id": 5,
+      "nama": "Hinggil",
+      "alamat": "Jakarta",
+      "umur": 19,
+      "nohp": "089671261726"
+    },
+    {
+      "id": 6,
+      "nama": "Prasetya",
+      "alamat": "Surabaya",
+      "umur": 17,
+      "nohp": "0896712672673"
+    },
+    {
+      "id": 7,
+      "nama": "Ganna",
+      "alamat": "Ngawi",
+      "umur": 18,
+      "nohp": "08967126173"
+    },
+    {
+      "id": 8,
+      "nama": "Hinggil",
+      "alamat": "Jakarta",
+      "umur": 19,
+      "nohp": "089671261726"
+    },
+    {
+      "id": 9,
+      "nama": "Prasetya",
+      "alamat": "Surabaya",
+      "umur": 17,
+      "nohp": "0896712672673"
+    },
+    {
+      "id": 10,
+      "nama": "Ganna",
+      "alamat": "Ngawi",
+      "umur": 18,
+      "nohp": "08967126173"
+    },
+    {
+      "id": 11,
+      "nama": "Hinggil",
+      "alamat": "Jakarta",
+      "umur": 19,
+      "nohp": "089671261726"
+    },
+    {
+      "id": 12,
+      "nama": "Prasetya",
+      "alamat": "Surabaya",
+      "umur": 17,
+      "nohp": "0896712672673"
+    },
+    {
+      "id": 13,
+      "nama": "Ganna",
+      "alamat": "Ngawi",
+      "umur": 18,
+      "nohp": "08967126173"
+    },
+    {
+      "id": 14,
+      "nama": "Hinggil",
+      "alamat": "Jakarta",
+      "umur": 19,
+      "nohp": "089671261726"
+    },
+    {
+      "id": 15,
+      "nama": "Prasetya",
+      "alamat": "Surabaya",
+      "umur": 17,
+      "nohp": "0896712672673"
+    }
+  ]
+}
